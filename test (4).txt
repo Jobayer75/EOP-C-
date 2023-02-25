@@ -1,0 +1,5 @@
+Apple   40    3.5
+Orange	25    5.3
+Pear	20    4.2
+Banana	36    2.9
+Durian  48    7.5
